@@ -32,6 +32,17 @@ The dataset contains information about road accidents including:
 
 ## Dashboard Preview
 
+### Main Dashboard
+![Road Accident Dashboard](dashboard.png)
+
+### Data Analysis Sheet (Pivot Tables)
+![Data Analysis](data-analysis-sheet.png)
+
+### Dashboard with Filters Applied
+![Dashboard With Filters](with-filters.png)
+
+### Filter Panel
+![Filters](filters.png)
 
 ## Author
 Ishika
