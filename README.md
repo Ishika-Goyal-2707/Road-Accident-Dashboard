@@ -25,6 +25,8 @@ The dataset contains information about road accidents including:
 - Casualties
 - Road Conditions
 
+  Full Dataset not uploaded due to large size.
+
 ## Project Files
 - Excel Dashboard File (.xlsx)
 - Dataset
